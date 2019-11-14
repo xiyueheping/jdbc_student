@@ -1,5 +1,5 @@
 # jdbc_student
-基于jdbc的学生管理案例
+基于JdbcTemplate的学生管理案例
 实现了student表的增删改查
 直接在idea中导入模块即可运行
 项目结构：lib：依赖jar包
