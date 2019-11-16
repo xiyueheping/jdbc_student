@@ -28,7 +28,7 @@ public class DButil {
             e.printStackTrace();
         }
     }
-    //从静态成员获取JdbcTemplate对象
+    //从静态成员获取数据库连接池对象
     public static DataSource getDataSource(){
         return DButil.ds;
     }
